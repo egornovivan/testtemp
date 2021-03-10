@@ -1,0 +1,41 @@
+{100}{}{You see: Zack.}
+{101}{}{You see a Gun Runner.}
+{102}{}{Hi, I'm Zack. You want to buy weapons? Let me see what you have to trade.}
+{103}{}{No.}
+{104}{}{Okay.}
+{105}{}{Can you give me a discount?}
+{106}{}{You want to buy weapons? Let me see what you have to trade.}
+{107}{}{Sorry to bother you.}
+{108}{}{Nice doing business with you.}
+{109}{}{}
+{110}{}{Okay. Come back if you need anything.}
+{111}{}{You'd better make up your mind fast. Are you here to buy equipment, or did you just come here to get shot?}
+{112}{}{You have a real attitude problem.}
+{113}{}{Sorry, maybe I could use some equipment after all.}
+{114}{}{What the hell are you doing here then?}
+{115}{}{Nothing.}
+{116}{}{Sure.}
+{117}{}{Yeah, well until Gabriel says so, you've gotta pay full price like everybody else.}
+{118}{}{I don't know about that.}
+{119}{}{Show me what you have anyway.}
+{120}{}{Great! Show me what you got.}
+{121}{}{I'll stop by later for that discount.}
+{122}{}{Can I get a better discount?}
+{123}{}{Sorry. I've given you the best discount I can.}
+
+# Fo1in2
+   {998}{}{Zack, your gear is top quality, but I am looking for something *even more* special.}
+   {999}{}{Can we talk about the *even more* special gear again?}
+   
+{1000}{}{Sorry, but that's all I got right now.}
+{1001}{}{Could try to get our hands on better materials again, now that the Deathclaws don't bother us anymore. It'll take a while, though.}
+   {1010}{}{Anything you need help with?}
+   
+{1100}{}{Paying new scavs will cost. If you want to speed up the process, an investment of 10.000 caps would probably help.}
+   {1110}{}{I don't have that kind of money.}
+   {1120}{}{Really hope it'll be worth it, Zack! [Pay 10.000 caps]}
+   {1130}{}{Uff. Maybe later.}
+
+{1200}{}{Come back if you have that kind of money.}
+{1300}{}{Can't promise anything. You have to check back from time to time, because this kind of inventory usually sells fast.}
+{1400}{}{Okay.}
